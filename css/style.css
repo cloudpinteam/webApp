@@ -1,0 +1,72 @@
+body {
+
+
+}
+
+
+#container1{
+	text-align: center;
+}
+
+#icon {
+	width:40px;
+	float:left;
+	margin-top: 10px;
+}
+
+#cloudpin {
+	color: #fff;
+	font-family: "Brandon Text";
+	font-size: 22px;
+	float:left;
+	font-weight:lighter;
+	margin-left:10px;
+}
+
+.button {
+	border: 1px solid rgba(39,70,111,.61);
+	-moz-border-radius: 9px;
+	-webkit-border-radius: 9px;
+	border-radius: 9px;
+	-moz-background-clip: padding;
+	-webkit-background-clip: padding-box;
+	background-clip: padding-box;
+	background-color: #4184dd;
+	outline:none;
+	color: #fff;
+	font-family: "Brandon Text";
+	font-size: 24px;
+	text-shadow: 0 1px 0 rgba(0,0,0,.14);
+	margin-top:10px;
+	font-weight: lighter;	
+}
+
+#nav {
+	height:80px;
+	background-color: #4185dd;
+	-moz-box-shadow: 0 2px 3px rgba(0,0,0,.31);
+	-webkit-box-shadow: 0 2px 3px rgba(0,0,0,.31);
+	box-shadow: 0 2px 3px rgba(0,0,0,.31);
+}
+
+#header{
+	padding-left:5%;
+	padding-right:5%;
+}
+
+#container2{
+	height:250px;
+	background:url(../img/background.png) center;
+	background-size:cover;
+	background-repeat: no-repeat;
+	/*background-position: fixed;*/
+}
+
+
+
+
+
+
+
+
+
